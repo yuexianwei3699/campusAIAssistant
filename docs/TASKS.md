@@ -35,23 +35,23 @@
 
 ## 迭代 2：Spring Boot 后端基础工程
 
-- [ ] 创建 `backend/` Spring Boot 项目
-- [ ] 配置 Maven 依赖
-- [ ] 配置 `application.yml`、`application-dev.yml`
-- [ ] 连接 Docker 中的 MySQL
-- [ ] 连接 Docker 中的 Redis
-- [ ] 配置 MyBatis-Plus
-- [ ] 配置统一响应对象 `Result`
-- [ ] 配置全局异常处理
-- [ ] 配置 Knife4j / Swagger
-- [ ] 创建基础健康检查接口
+- [x] 创建 `backend/` Spring Boot 项目
+- [x] 配置 Maven 依赖
+- [x] 配置 `application.yml`、`application-dev.yml`
+- [x] 连接 Docker 中的 MySQL
+- [x] 连接 Docker 中的 Redis
+- [x] 配置 MyBatis-Plus
+- [x] 配置统一响应对象 `Result`
+- [x] 配置全局异常处理
+- [x] 配置 Knife4j / Swagger
+- [x] 创建基础健康检查接口
 
 验收标准：
 
-- [ ] 后端可正常启动
-- [ ] Swagger 页面可访问
-- [ ] 健康检查接口返回成功
-- [ ] 后端能连接 MySQL 和 Redis
+- [x] 后端可正常启动
+- [x] Swagger 页面可访问
+- [x] 健康检查接口返回成功
+- [x] 后端能连接 MySQL 和 Redis
 
 ## 迭代 3：Vue 前端基础工程
 

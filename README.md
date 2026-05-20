@@ -29,6 +29,8 @@ npm install
 npm run dev
 ```
 
+后端默认地址为 `http://localhost:18080`，基础健康检查接口为 `http://localhost:18080/api/health`。
+
 ## 任务清单
 
 迭代任务记录在 [docs/TASKS.md](docs/TASKS.md)。完成任务后将对应复选框从 `[ ]` 改为 `[x]`。
