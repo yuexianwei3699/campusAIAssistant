@@ -55,19 +55,19 @@
 
 ## 迭代 3：Vue 前端基础工程
 
-- [ ] 创建 `frontend/` Vue 3 + Vite 项目
-- [ ] 安装 Element Plus、Pinia、Vue Router、Axios
-- [ ] 配置基础路由
-- [ ] 配置 Axios 请求封装
-- [ ] 配置登录页、首页、后台布局
-- [ ] 配置前端环境变量
-- [ ] 编写基础页面导航
+- [x] 创建 `frontend/` Vue 3 + Vite 项目
+- [x] 安装 Element Plus、Pinia、Vue Router、Axios
+- [x] 配置基础路由
+- [x] 配置 Axios 请求封装
+- [x] 配置登录页、首页、后台布局
+- [x] 配置前端环境变量
+- [x] 编写基础页面导航
 
 验收标准：
 
-- [ ] `npm run dev` 可正常启动
-- [ ] 页面能访问
-- [ ] Axios 能请求后端健康检查接口
+- [x] `npm run dev` 可正常启动
+- [x] 页面能访问
+- [x] Axios 能请求后端健康检查接口
 
 ## 迭代 4：用户登录与权限模块
 

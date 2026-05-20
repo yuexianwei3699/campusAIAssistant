@@ -3,6 +3,7 @@ node_modules/
 
 # Frontend build output
 dist/
+*.tsbuildinfo
 
 # Backend build output
 target/
@@ -26,4 +27,3 @@ Thumbs.db
 # Runtime uploads and generated files
 uploads/
 tmp/
-
