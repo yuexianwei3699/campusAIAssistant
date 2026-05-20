@@ -20,18 +20,18 @@
 
 ## 迭代 1：Docker 基础服务环境
 
-- [ ] 编写 `docker-compose.yml`
-- [ ] 配置 MySQL 8 容器
-- [ ] 配置 Redis 7 容器
-- [ ] 配置 Milvus、Etcd、MinIO 容器
-- [ ] 编写 MySQL 初始化 SQL 目录：`docker/mysql/init/`
-- [ ] 验证 MySQL、Redis、Milvus 能正常启动
-- [ ] 编写 Docker 启动说明
+- [x] 编写 `docker-compose.yml`
+- [x] 配置 MySQL 8 容器
+- [x] 配置 Redis 7 容器
+- [x] 配置 Milvus、Etcd、MinIO 容器
+- [x] 编写 MySQL 初始化 SQL 目录：`docker/mysql/init/`
+- [x] 验证 MySQL、Redis、Milvus 能正常启动
+- [x] 编写 Docker 启动说明
 
 验收标准：
 
-- [ ] `docker compose up -d` 可正常执行
-- [ ] `docker compose ps` 显示基础服务运行正常
+- [x] `docker compose up -d` 可正常执行
+- [x] `docker compose ps` 显示基础服务运行正常
 
 ## 迭代 2：Spring Boot 后端基础工程
 

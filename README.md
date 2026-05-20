@@ -18,7 +18,7 @@ campus-ai-assistant/
 
 ## 本地开发启动流程
 
-第 0 次迭代只准备基础目录和 Docker Compose 初稿。后续开发按以下顺序启动：
+Docker 基础服务使用本项目专属容器名和端口，不占用本机默认数据库端口。后续开发按以下顺序启动：
 
 ```bash
 docker compose up -d
