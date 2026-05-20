@@ -1,0 +1,2 @@
+# campusAIAssistant
+基于大语言模型的校园智能问答与个性化服务系统
